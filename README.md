@@ -42,27 +42,27 @@ Tips:
 // WDI 10
 Charles	Orlando
 Juliana	Michelsen
-Ronak	Singh
+Ronak Singh
 Andrew Chan
 Erik Morales
-Matthew	Tan
+Matthew Tan
 Daniel Doherty
-Christopher	Jauregui
-Jon	Franchi
-Sam	Collette
-Peter	Weyand
+Chris Jauregui
+Jon Franchi
+Sam Collette
+Peter Weyand
 Salman Rana
-Matthew	Heck
-Melissa	Pringle
-Tanya	Selvog
-Sarah	Goldgar
-Jorge	Cano
-Barbara	Boutette
-Robert	Saunders
-Komal	Jadvani
-Jacob	Bodkin
-Rene	Sanchez
-Remington	Griffin
+Matthew Heck
+Melissa Pringle
+Tanya Selvog
+Sarah Goldgar
+Jorge Cano
+Barbara Boutette
+Robert Saunders
+Komal Jadvani
+Jacob Bodkin
+Rene Sanchez
+Remington Griffin
 ```
 
 ---
