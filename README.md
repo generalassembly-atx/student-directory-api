@@ -38,6 +38,33 @@ Tips:
 - You'll need to run two servers on separate ports. Use `nodemon` for your Express app and something like [serve](https://www.npmjs.com/package/serve) to run your front-end application. They both can't utilize the same port number. 
 - Use jQuery's `$.ajax` method to access your API 
 
+```
+// WDI 10
+Charles	Orlando
+Juliana	Michelsen
+Ronak	Singh
+Andrew Chan
+Erik Morales
+Matthew	Tan
+Daniel Doherty
+Christopher	Jauregui
+Jon	Franchi
+Sam	Collette
+Peter	Weyand
+Salman Rana
+Matthew	Heck
+Melissa	Pringle
+Tanya	Selvog
+Sarah	Goldgar
+Jorge	Cano
+Barbara	Boutette
+Robert	Saunders
+Komal	Jadvani
+Jacob	Bodkin
+Rene	Sanchez
+Remington	Griffin
+```
+
 ---
 
 ### Resources
