@@ -39,7 +39,7 @@ Tips:
 - Use jQuery's `$.ajax` method to access your API 
 
 ```
-// WDI 10
+# WDI 10
 Charles	Orlando
 Juliana	Michelsen
 Ronak Singh
