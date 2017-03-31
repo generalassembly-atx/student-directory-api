@@ -12,7 +12,7 @@ With this API, any external application will be able to:
 - Update a student's information 
 - Delete a student from the database 
 
-Although it's not required, we highly recommend using something like [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) to develop and test your REST API. 
+Although it's not required, we highly recommend using a tool like [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop?hl=en) to develop and test your REST API. 
 
 ---
 
