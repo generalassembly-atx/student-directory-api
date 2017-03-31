@@ -40,29 +40,29 @@ Tips:
 
 ```
 # WDI 10
-Charles	Orlando
-Juliana	Michelsen
-Ronak Singh
-Andrew Chan
-Erik Morales
-Matthew Tan
-Daniel Doherty
-Chris Jauregui
-Jon Franchi
-Sam Collette
-Peter Weyand
-Salman Rana
-Matthew Heck
-Melissa Pringle
-Tanya Selvog
-Sarah Goldgar
-Jorge Cano
-Barbara Boutette
-Robert Saunders
-Komal Jadvani
 Jacob Bodkin
-Rene Sanchez
+Barbara Boutette
+Jorge Cano
+Andrew Chan
+Sam Collette
+Daniel Doherty
+Jon Franchi
+Sarah Goldgar
 Remington Griffin
+Matthew Heck
+Komal Jadvani
+Chris Jauregui
+Juliana Michelsen
+Erik Morales
+Charles Orlando
+Melissa Pringle
+Salman Rana
+Rene Sanchez
+Robert Saunders
+Tanya Selvog
+Ronak Singh
+Matthew Tan
+Peter Weyand
 ```
 
 ---
